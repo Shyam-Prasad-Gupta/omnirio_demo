@@ -25,10 +25,13 @@ hs_err_pid*
 #to ignore the ide specifit files
 /target/classes/*
 .mvn
-.mvnw
 .settings
 .classpath
 .project
 .DS_STORE
 target/*
 *.class
+mvnw
+mvnw.cmd
+HELP.md
+
